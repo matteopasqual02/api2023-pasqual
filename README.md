@@ -1,6 +1,8 @@
 # api2023-pasqual
 API project at polimi in 2023
 
+GRADE 30L/30
+
 In 2023, a project was conducted at Politecnico di Milano (Polimi) focusing on an optimization challenge centered around finding the shortest path. 
 Two distinct iterations of the project were documented through the files "24.c" and "lode.c".
 The initial endeavor, encapsulated within "24.c", employed a double-linked list as the primary data structure for addressing the optimization challenge. 
